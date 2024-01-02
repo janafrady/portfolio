@@ -8,7 +8,7 @@ A variety of different coding projects (all in Python) I made throughout the pas
 * Figure out if two words are [anagrams](./highschool/anagrams.py) or [palindromes](./highschool/palindrome.py)
 * Create a hidden message with the [caesar cipher](./highschool/caesar_cipher.py)
 
-Courses: AP Computer Science Principles\
+Courses: AP Computer Science Principles
 
 **Freshman Year College:**
 * [Peano Curve](./freshmancollege/peano.py)
