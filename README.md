@@ -10,4 +10,4 @@ A variety of different coding projects (all in Python) I made throughout the pas
 
 **Freshman Year College:**
 * [Peano Curve](./freshmancollege/peano.py)
-* More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) by request of class instructor
+* More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) done and can be viewed by request of class instructor
