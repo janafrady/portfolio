@@ -3,7 +3,7 @@ Here are a variety of different coding projects (all in Python) I made throughou
 
 **Senior Year High School**\
 [Typing Test](./typing_test.py)\
-[Tic-Tac-Toe](./tic-tac-toe.py)\
+[Tic-Tac-Toe](./tic_tac_toe.py)\
 
 
 **Freshman Year College**
