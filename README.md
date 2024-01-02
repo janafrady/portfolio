@@ -2,8 +2,8 @@ A variety of different coding projects (all in Python) I made throughout the pas
 
 
 **Senior Year High School:**\
-[Typing Test](./highschool/typing_test.py)\
-[Tic-Tac-Toe](./highschool/tic_tac_toe.py)\
-[Anagrams](./highschool/anagrams.py)
+Create your own [Typing Test](./highschool/typing_test.py)\
+Play [Tic-Tac-Toe](./highschool/tic_tac_toe.py) with the computer\
+Figure out if two words are [Anagrams](./highschool/anagrams.py)
 
 **Freshman Year College:**
