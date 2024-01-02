@@ -1,5 +1,6 @@
 A variety of different coding projects (all in Python) I made throughout the past year:
 
+&nbsp;
 
 **Senior Year High School:**
 * [Triangle math](./highschool/triangle_math.py)
