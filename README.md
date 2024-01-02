@@ -10,3 +10,4 @@ A variety of different coding projects (all in Python) I made throughout the pas
 
 **Freshman Year College:**
 * [Peano Curve](./freshmancollege/peano.py)
+* More coding projects by request of class instructor
