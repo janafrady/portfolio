@@ -17,4 +17,4 @@ Courses: AP Computer Science Principles
 * [Peano Curve](./freshmancollege/peano.py)
 * More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) done and can be viewed by specific request to class instructor
 
-Courses: EECS 169
+Courses: EECS 169 (Programming I, Honors)
