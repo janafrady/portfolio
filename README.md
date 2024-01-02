@@ -1,4 +1,4 @@
-A variety of different coding projects (all in Python) I made throughout the past year:
+A variety of different coding projects (all in Python) I have created:
 
 &nbsp;
 
