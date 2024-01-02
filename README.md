@@ -9,3 +9,4 @@ A variety of different coding projects (all in Python) I made throughout the pas
 * [Triangle math](./highschool/triangle_math.py)
 
 **Freshman Year College:**
+* [Peano Curve](./freshmancollege/peano.py)
