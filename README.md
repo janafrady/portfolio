@@ -1,4 +1,4 @@
-A variety of different coding projects (all in Python) I have created:
+A portfolio of different coding projects (all in Python) I have made:
 
 &nbsp;
 
