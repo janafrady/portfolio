@@ -14,7 +14,7 @@ Course(s): AP Computer Science Principles
 &nbsp;
 
 **Freshman Year College:**
-* [Peano Curve](./freshmancollege/peano.py)
+* [Peano Curve](./freshmancollege/peano.py) using Turtle graphics
 * More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) done and can be viewed by specific request to class instructor
 
 Course(s): EECS 169 (Programming I, Honors)
