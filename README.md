@@ -9,6 +9,7 @@ A variety of different coding projects (all in Python) I made throughout the pas
 * Create a hidden message with the [caesar cipher](./highschool/caesar_cipher.py)
 
 Courses: AP Computer Science Principles\
+
 **Freshman Year College:**
 * [Peano Curve](./freshmancollege/peano.py)
 * More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) done and can be viewed by specific request to class instructor
