@@ -6,7 +6,7 @@ A portfolio of different coding projects (all in Python) I have made:
 * [Peano Curve](./freshmancollege/peano.py) using Turtle graphics
 * More [coding projects](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Labs) done and can be viewed by specific request to class instructor
 
-Course(s): EECS 169 (Programming I, Honors)
+Course(s): EECS 169 (Programming I, Honors), EECS 268 (Programming II), EECS 140 (Intro to Digital Logic)
 
 &nbsp;
 
